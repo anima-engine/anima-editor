@@ -1,0 +1,6 @@
+[package]
+name = "anima-editor"
+version = "0.1.0"
+authors = ["Dragoș Tiselice <dragostiselice@gmail.com>"]
+
+[dependencies]
